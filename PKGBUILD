@@ -2,7 +2,7 @@
 # Previous Maintainer: TingPing tingping@tingping.se
 
 pkgname=transmission-remote-gtk-git
-pkgver=1.6.0-2-gd259309
+pkgver=1.6.0.r2.gd259309
 pkgrel=1
 pkgdesc='A remote interface to the Transmission BitTorrent client'
 arch=('x86_64')
